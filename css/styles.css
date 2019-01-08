@@ -60,6 +60,10 @@ nav {
   margin-bottom: 60px;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .product {
   background-color: #eeddcd;
   border-radius: 5%;
